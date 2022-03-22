@@ -1,6 +1,0 @@
-test
-test push
-test fork
-test ye branch
-test conflict resolve
-test cnsejr2/main
